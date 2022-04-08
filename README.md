@@ -4,6 +4,6 @@ Create a function that takes in a list of full names (first and last) and return
 ## Test case:
 ### input:  
 ["Steve Rogers", "Tony Stark", "Bruce Banner"]  
-## output:  
+### output:  
 ["SR","TS","BB"]
  
